@@ -1,3 +1,6 @@
 ---
-title: Welcome to my blog!
+title: Binsoy69!
 ---
+
+# My First Github Page!
+## Sheeeesh!
